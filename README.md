@@ -1,2 +1,2 @@
-“This is a lfdsfdsine from RStudio”
+“This is from RStudio”
 Non-conflicting
